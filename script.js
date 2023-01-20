@@ -1,12 +1,16 @@
-//create varibles
-const currentDay = moment().format('dddd Do MMM, YYYY [at] hh:mm');
-$("#currentDay").text(currentDay); //add todays date to page to display 
-//or $("#currentDay").text(moment().format("dddd Do MMM YYYY, HH:mm"));
 var submitBtn = $(".saveBtn");
 var time = $(".time-block");
 var currentHours = moment().hour(); //military standard
 
-setInterval(currentDay, 1000);
+//timer function displaying at the header of the page
+function timer() {
+  //add todays date to page to display 
+  var currentDay = moment().format('dddd Do MMM, YYYY [at] kk:mm:ss');
+  $("#currentDay").text(currentDay); 
+  //or $("#currentDay").text(moment().format("dddd Do MMM YYYY, HH:mm"));
+}
+
+setInterval(timer, 1000);
 time.each(function (i, element){
   var elementTime = Number(element.id);
 

@@ -2,6 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-color: #275e46;
+  font-family: 'Chivo', sans-serif;
 }
 
 textarea {
@@ -18,7 +20,7 @@ textarea {
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 2px solid rgb(227, 239, 143);
 }
 
 .description {
