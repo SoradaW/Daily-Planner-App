@@ -21,17 +21,11 @@ A simple calendar application that allows a user to save events for each hour of
 
 ## The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./*images/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./images/Daily%20Planner.gif)
 
 ## Link to deployed application 
  
 *
-
-## Credits
-
-* 
-
-* 
 
 ---
 © 2023 || Sorada Wright || All Rights Reserved.
