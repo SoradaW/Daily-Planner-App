@@ -38,8 +38,5 @@ submitBtn.on("click", function(event) {
   .val();
 
   var hour = $(event.currentTarget).parent().first().text().trim();
-
   localStorage.setItem(hour, description);
 });
-
-
