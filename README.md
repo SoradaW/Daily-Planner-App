@@ -19,13 +19,13 @@ A simple calendar application that allows a user to save events for each hour of
 * Persist events between refreshes of a page
 
 
-## The following animation demonstrates the application functionality:
+## The application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/Daily%20Planner.gif)
 
 ## Link to deployed application 
  
-*
+https://soradaw.github.io/Daily-Planner-App/
 
 ---
 © 2023 || Sorada Wright || All Rights Reserved.
