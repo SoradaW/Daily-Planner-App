@@ -30,7 +30,6 @@ time.each(function (i, element){
   }
 });
 
-
 submitBtn.on("click", function(event) {
   let description = $(event.currentTarget)
   .parent()

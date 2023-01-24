@@ -71,8 +71,13 @@ textarea {
   border-left: 1px solid rgb(73, 77, 67);
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #2b8ca1;
+  background-color: #2b72a1;
   color: white;
+}
+
+.saveBtn i {
+  display: flex;
+  justify-content: center;
 }
 
 .saveBtn i:hover {
