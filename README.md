@@ -21,7 +21,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 ## The application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./images/Daily%20Planner.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](assets/images/Daily-Planner.gif)
 
 ## Link to deployed application 
  
